@@ -1,11 +1,10 @@
-package org.example.behavioral.chain_of_responsibility.server;
+package org.example.behavioral.chain_of_responsibility.answer.server;
 
 import lombok.extern.slf4j.Slf4j;
-import org.example.behavioral.chain_of_responsibility.middleware.Middleware;
+import org.example.behavioral.chain_of_responsibility.answer.middleware.Middleware;
 
 import java.util.HashMap;
 import java.util.Map;
-import java.util.concurrent.ConcurrentHashMap;
 
 @Slf4j
 public class Server {

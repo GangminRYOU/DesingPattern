@@ -1,4 +1,4 @@
-package org.example.behavioral.chain_of_responsibility.middleware;
+package org.example.behavioral.chain_of_responsibility.answer.middleware;
 
 public abstract class Middleware {
     private Middleware next;

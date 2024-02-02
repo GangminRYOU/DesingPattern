@@ -1,7 +1,7 @@
-package org.example.behavioral.chain_of_responsibility.middleware;
+package org.example.behavioral.chain_of_responsibility.answer.middleware;
 
 import lombok.extern.slf4j.Slf4j;
-import org.example.behavioral.chain_of_responsibility.server.Server;
+import org.example.behavioral.chain_of_responsibility.answer.server.Server;
 
 @Slf4j
 public class UserExistMiddleware extends Middleware{
